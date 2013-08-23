@@ -1,5 +1,5 @@
 === CodexFree ===
-Contributors: claudiosanches, deblyn
+Contributors: wpbrasil
 Tags: codex, duvidas
 Requires at least: 3.0
 Tested up to: 3.5.1

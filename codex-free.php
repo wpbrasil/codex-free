@@ -3,7 +3,7 @@
  * Plugin Name: CodexFree
  * Plugin URI: https://github.com/wpbrasil/codex-free
  * Description: Tire dúvidas e aprenda a arte milenar de programar no WordPress.org
- * Author: claudiosanches
+ * Author: wpbrasil
  * Author URI: https://github.com/wpbrasil
  * Version: 1.0.0
  * License: GPLv2 or later

@@ -1,6 +1,6 @@
 # CodexFree #
-**Contributors:** claudiosanches, deblyn  
-**Tags:** ecommerce, woocommerce, payment gateway, boleto, banco do brasil, bradesco, caixa, hsbc, itau, nossa caixa, real, santander, unibanco  
+**Contributors:** wpbrasil  
+**Tags:** codex, duvidas  
 **Requires at least:** 3.0  
 **Tested up to:** 3.5.1  
 **Stable tag:** 0.3  
