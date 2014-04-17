@@ -1,5 +1,5 @@
 # CodexFree #
-**Contributors:** wpbrasil  
+**Contributors:** claudiosanches, wpbrasil  
 **Tags:** codex, duvidas  
 **Requires at least:** 3.8  
 **Tested up to:** 3.9  
