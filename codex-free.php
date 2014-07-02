@@ -5,7 +5,7 @@
  * Description: Tire dúvidas e aprenda a arte milenar de programar no WordPress.org
  * Author: wpbrasil
  * Author URI: https://github.com/wpbrasil
- * Version: 1.0.2
+ * Version: 1.0.3
  * License: GPLv2 or later
  */
 
