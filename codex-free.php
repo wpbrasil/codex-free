@@ -5,7 +5,7 @@
  * Description: Tire dúvidas e aprenda a arte milenar de programar no WordPress.org
  * Author: wpbrasil
  * Author URI: https://github.com/wpbrasil
- * Version: 1.0.2
+ * Version: 1.0.3
  * License: GPLv2 or later
  */
 
@@ -31,11 +31,15 @@ class Codex_Free {
 	public function widget() {
 		$html = '<p>' . __( 'Esta com alguma d&uacute;vida? Fa&ccedil;a uma busca aqui:' ) . '</p>';
 		$html .= '<form method="get" action="http://wordpress.org/search/do-search.php" target="_blank">';
-		$html .= '<input class="text" type="text" placeholder="' . __( 'Procurar no WordPress.org' ) . '" maxlength="150" value="" name="search" />';
-		$html .= '<input class="button" type="submit" value="' . __( 'Buscar' ) . '" />';
+		$html .= '<input class="text" type="text" placeholder="' . __( '' ) . '" maxlength="150" value="" name="search" />';
+		$html .= '<input class="button" type="submit" value="' . __( 'Procurar no WordPress.org' ) . '" />';
+		$html .= '</form>';
+		$html .= '<form method="get" action="http://stackoverflow.com/search" target="_blank">';
+		$html .= '<input class="text" type="text" placeholder="' . __( '' ) . '" maxlength="150" value="[wordpress] " name="q" />';
+		$html .= '<input class="button" type="submit" value="' . __( 'Procurar no stackoverflow' ) . '" />';
 		$html .= '</form>';
 
-		$html .= '<p>' . __( 'Vire um ninja e aprenda a arte milenar de como programar no WordPress:' ) . '</p>';
+		$html .= '<p>' . __( 'Vire um Jedi e aprenda a arte milenar de como programar no WordPress:' ) . '</p>';
 		$html .= '<ul>';
 		$html .= '<li><a href="http://codex.wordpress.org/" target="_blank">' . __( 'Tutorial em Ingl&ecirc;s' ) . '</a></li>';
 		$html .= '<li><a href="http://codex.wordpress.org/pt-br:P%C3%A1gina_Inicial" target="_blank">' . __( 'Tutorial em Portugu&ecirc;s' ) . '</a></li>';
